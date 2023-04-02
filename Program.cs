@@ -1,2 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Rozpoczynamy zajęcia");
+Console.WriteLine("Rozpoczynamy zajęcia!");
+Console.WriteLine("Ćwiczenia trwają!");
+
